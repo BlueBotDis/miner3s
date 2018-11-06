@@ -4,7 +4,7 @@ const ms = require('ms');
 const pms = require('pretty-ms');
 
 client.on('ready', () => {
-          client.user.setActivity("Im Miner So I Love it🛠",{type: 'WATCHING'});
+          client.user.setActivity("I,Love,U,KarZo",{type: 'WATCHING'});
   
   });
 
@@ -78,7 +78,7 @@ client.on('ready', () => console.log('By Rie'));//كلام يظهر فل كون�
 //Better Quality & Fast Mining & Better Minning = More Credits
 
 var prefix = "3";
-const pr1 = ['455496843774918656' , '502907623641972757' , ''];
+const pr1 = ['455496843774918656' , '502907623641972757' , '455496843774918656'];
 
 
 client.on('message', message => {
